@@ -36,8 +36,8 @@
 
 ![image](https://github.com/sreekarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139841918/9dea3db7-da78-4665-8b42-4c0364a66656)
 
+![image](https://github.com/sreekarsh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139841918/aca20a23-e9d6-4f1e-a437-32ca9ce5a36a)
 
-![Uploading image.png…]()
 
 
 
